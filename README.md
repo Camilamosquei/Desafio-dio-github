@@ -1,2 +1,2 @@
-# Desafio-dio-Github
+# Desafio Dio: Git/GitHub
 Primeiro desafio dio Git/GitHub

@@ -1,0 +1,10 @@
+Comandos no Windows:
+Mkdir: Criar diretório
+Cd: Abrir repositório 
+Crtl+l: limpar
+Ls: Listar
+Del: Deletar arquivos
+Git clone: clonar repositório remoto
+Git init: Cria novo repositorio
+Git add: Incluir novas att
+Git comit: Comitar alterações
